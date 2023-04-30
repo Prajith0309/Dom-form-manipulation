@@ -1,0 +1,16 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.top{
+    text-align: center;
+    color: aliceblue;
+     box-shadow: 10px 10px 20px gray;
+
+}
+
+.tablehead{
+    background-color: antiquewhite;
+}
